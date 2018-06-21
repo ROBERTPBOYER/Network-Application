@@ -1,0 +1,96 @@
+Using username "rpboyer".
+rpboyer@uw1-320-lab.uwb.edu's password:
+Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-57-generic x86_64)
+Last login: Sun Mar 12 20:48:31 2017 from 10.102.46.220
+rpboyer@uw1-320-14:~$ cd CSS_432
+rpboyer@uw1-320-14:~/CSS_432$ cd Program_5
+rpboyer@uw1-320-14:~/CSS_432/Program_5$ ftp ftp.tripod.com
+Connected to ftp.tripod.com.
+220 Welcome to Tripod us FTP.
+Name (ftp.tripod.com:rpboyer): css432w17
+331 Username set to css432w17. Now enter your password.
+Password:
+230- ==============================================================
+230-                     IMPORTANT NOTICE
+230- ==============================================================
+230-
+230- Powerful building tools. Traffic-generating, money-making
+230- programs. It's all waiting for you at Tripod.
+230-
+230-   http://www.tripod.lycos.com/
+230-
+230- ==============================================================
+230-
+230- Got a great idea for a website?  Then don't
+230- wait, get your own web address today!
+230-
+230-   http://www.tripod.lycos.com/domains/
+230-
+230- ==============================================================
+230-
+230- We heard you loud and clear! You love your site, but
+230- you don't like the ads.  Remove those pesky popups
+230- forever!
+230-
+230-   http://www.tripod.lycos.com/web-hosting/compare_plans.pl
+230-
+230- ==============================================================
+230 User 'css432w17' logged on.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> cd project
+250 Directory set to '/project'.
+
+
+ftp> get 500KB.txt
+local: 500KB.txt remote: 500KB.txt
+200 Port command succeeded.
+150 Opening BINARY mode data connection for '500KB.txt'.
+226 Transfer complete.  (519084 bytes sent.)
+519084 bytes received in 1.14 secs (443.7968 kB/s)
+
+
+ftp> get 500KB.txt
+local: 500KB.txt remote: 500KB.txt
+200 Port command succeeded.
+150 Opening BINARY mode data connection for '500KB.txt'.
+226 Transfer complete.  (519084 bytes sent.)
+519084 bytes received in 1.21 secs (417.4532 kB/s)
+
+
+
+ftp> get 500KB.txt
+local: 500KB.txt remote: 500KB.txt
+200 Port command succeeded.
+150 Opening BINARY mode data connection for '500KB.txt'.
+226 Transfer complete.  (519084 bytes sent.)
+519084 bytes received in 1.22 secs (415.4572 kB/s)
+
+
+ftp> get 1000KB.txt
+local: 1000KB.txt remote: 1000KB.txt
+200 Port command succeeded.
+150 Opening BINARY mode data connection for '1000KB.txt'.
+226 Transfer complete.  (1038169 bytes sent.)
+1038169 bytes received in 1.87 secs (541.7700 kB/s)
+
+
+ftp> get 1000KB.txt
+local: 1000KB.txt remote: 1000KB.txt
+200 Port command succeeded.
+150 Opening BINARY mode data connection for '1000KB.txt'.
+226 Transfer complete.  (1038169 bytes sent.)
+1038169 bytes received in 1.77 secs (574.1793 kB/s)
+
+
+ftp> get 1000KB.txt
+local: 1000KB.txt remote: 1000KB.txt
+200 Port command succeeded.
+150 Opening BINARY mode data connection for '1000KB.txt'.
+226 Transfer complete.  (1038169 bytes sent.)
+1038169 bytes received in 1.84 secs (551.7834 kB/s)
+ftp>
+
+ 
+  
+       
