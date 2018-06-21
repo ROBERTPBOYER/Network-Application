@@ -1,0 +1,43 @@
+﻿Final Project: Network Application
+CSS 432, Winter 2017
+Professor: Athirai Irissappane
+Student: Robert Boyer
+---------------------
+
+How to Compile:
+
+		g++ Main.cpp Timer.cpp -o ftp 
+
+How to Run code:
+
+		1) $ ./ftp 
+
+		2) $ ./ftp [hostname]
+
+		3) $ ./ftp [hostname] [port]
+
+		Name: css432w17
+
+		Password: UWB0th3ll
+		
+		ftp commands: 	help 
+				ls
+				close
+				quit
+				open [hostname]
+				cd   [subdir] 
+				get  [filename]
+				put  
+				~ (local-file)
+				~ (remote-file)
+ 
+		
+
+
+How to test ftp code:
+		
+		To obtain 'put' & 'get' ftp command execution times from my code make sure: [debug = true] at top of Main.cpp
+
+
+	
+		 
